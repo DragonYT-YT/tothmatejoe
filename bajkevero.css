@@ -1,0 +1,24 @@
+body {
+    background-color: lightpink;
+}
+
+img {
+    width: 400px;
+    margin: 30px;
+    transition: 1s;
+    border: 3px solid black;
+}
+
+img:hover {
+    width: 500px;
+    margin: 0;
+}
+
+h1 {
+    color: brown;
+    font-size: 30px;
+}
+
+p{
+    font-size: 30px;
+}
